@@ -16,7 +16,7 @@
     "firebase-admin": "^6.4.0",
     "firebase-functions": "^2.1.0",
     "mockjs": "^1.0.1-beta3",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "path-to-regexp": "^3.0.0"
   },
   "private": true
