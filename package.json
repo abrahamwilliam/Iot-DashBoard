@@ -47,7 +47,7 @@
     "material-ui": "^0.20.2",
     "memoize-one": "^5.0.0",
     "mkcert": "^1.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "numeral": "^2.0.6",
     "nzh": "^1.0.4",
     "omit.js": "^1.0.0",
