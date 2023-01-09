@@ -13,8 +13,8 @@
     "@babel/runtime": "^7.0.0",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "firebase-admin": "^6.4.0",
-    "firebase-functions": "^2.1.0",
+    "firebase-admin": "^11.4.1",
+    "firebase-functions": "^4.1.1",
     "mockjs": "^1.0.1-beta3",
     "moment": "^2.22.2",
     "path-to-regexp": "^3.0.0"
